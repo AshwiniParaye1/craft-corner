@@ -8,6 +8,11 @@ Craft Corner is a web application designed to be a hub for craft enthusiasts. Br
 - Tailwind CSS
 - React
 
+## 🔗 Watch Live
+
+Check out the live demo of the project here:  
+👉 [https://craftcorner.vercel.app/](https://craftcorner.vercel.app/)
+
 ## 📦 Installation
 
 ### Prerequisites
